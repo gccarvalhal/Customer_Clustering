@@ -62,7 +62,7 @@ Selected features for the RFM model:
 15. number_brands_sum
 16. Number_sku_sum
 
-![feature selection](https://user-images.githubusercontent.com/95027395/183254871-080b6056-c91f-4ca8-b0ff-8ee264918fca.PNG)
+![feature selection](blob:https://web.whatsapp.com/d2316248-6964-4cc9-8f65-0587ad28b032)
 
 
 ### Evaluation of the learning process
